@@ -99,7 +99,7 @@ namespace ConsoleApp3
                 
             }
         }
-
+        //ksuGDFÑUASGFAUGF
         public static int DivideTheNumbers(int a, int b)
         {
             return b / a;
